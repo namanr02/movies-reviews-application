@@ -1,4 +1,31 @@
-# Getting Started with Create React App
+# React frontend web application
+
+This directory contains the web application for the project.
+
+## Prerequisites
+
+Before running this project locally, ensure that you have the following prerequisites installed:
+
+1. **Node.js**: Node.js is a JavaScript runtime environment that is used for building server-side applications. It is also required for running React projects.
+
+2. **npm (Node Package Manager)**: npm is a package manager for Node.js that allows you to download and install packages and dependencies required for your React project. npm is included with Node.js, so you don't have to install it separately.
+
+## How to Run This Project Locally
+
+To run this project locally, follow these steps:
+
+1. **Navigate to the project directory**:
+### `cd movies-reviews-app`
+
+2. **Install dependencies**:
+### `npm install`
+
+3. **Start the development server**:
+### `npm start`
+
+<br>
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
