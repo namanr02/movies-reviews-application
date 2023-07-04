@@ -6,7 +6,7 @@ This directory contains the React frontend web application for the project.
 
 Before running this project locally, ensure that you have the following prerequisites installed:
 
-1. **Node.js**: Node.js is a JavaScript runtime environment that is used for building server-side applications. It is also required for running React projects.
+1. **Node.js**: Node.js is a JavaScript runtime environment used for building server-side applications. It is also required for running React projects.
 
 2. **npm (Node Package Manager)**: npm is a package manager for Node.js that allows you to download and install packages and dependencies required for your React project. npm is included with Node.js, so you don't have to install it separately.
 
@@ -22,6 +22,9 @@ To run this project locally, follow these steps:
 
 3. **Start the development server**:
 ### `npm start`
+
+This will run the app in development mode.
+Open http://localhost:3000 to view it in your browser.
 
 <br>
 
