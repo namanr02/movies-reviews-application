@@ -2,7 +2,7 @@
 A full-stack web application to host reviews for movies. It consists of a Java Spring Boot backend API, MongoDB database and a React frontend web application.
 
 ## ⚠️ Disclaimer ⚠️
-** Please note that this repository also contains assignments and project report completed for a specific course. 
+**Please note that this repository also contains assignments and project report completed for a specific course. 
 
 While you may refer to the project structure, implementation, or code snippets for learning purposes, it is advised not to fork or clone this repository due to the inclusion of course-related materials. The assignments and registration numbers are specific to the course context.
 
