@@ -1,6 +1,6 @@
-# React frontend web application
+# movies-reviews-app
 
-This directory contains the web application for the project.
+This directory contains the React frontend web application for the project.
 
 ## Prerequisites
 
