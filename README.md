@@ -11,6 +11,7 @@ A. Assignments
 B. Project Files  
 C. Project Report  
 D. Demo Video  
+E. VMware Certificate of Completion
   
 ## Project Description
 A modern web application with a decoupled architecture. The Spring Boot backend API serves as the server-side component, handling data storage, retrieval, and business logic. MongoDB is used as the database, offering a flexible and scalable solution for storing and managing data. The React frontend web application offers a dynamic and interactive user interface, allowing users to efficiently interact with the backend services.  
